@@ -1,0 +1,15 @@
+@inproceedings{Kolbitsch:2009:EEM:1855768.1855790,
+ author = {Kolbitsch, Clemens and Comparetti, Paolo Milani and Kruegel, Christopher and Kirda, Engin and Zhou, Xiaoyong and Wang, XiaoFeng},
+ title = {Effective and efficient malware detection at the end host},
+ booktitle = {Proceedings of the 18th conference on USENIX security symposium},
+ series = {SSYM'09},
+ year = {2009},
+ location = {Montreal, Canada},
+ pages = {351--366},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=1855768.1855790},
+ acmid = {1855790},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+

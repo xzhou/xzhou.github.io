@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+	margin:0px;
+}
+
+
+body {
+	font-size:13pt;
+	margin-top:3px;
+	text-align:left;
+	background-color:#333;
+	color: #333;
+	font-family: "Comic Sans MS", cursive;
+}
+
+#container {
+	background-color:#FFF;
+	width:1000px;
+	margin:10px auto;
+	padding-bottom:100px;
+	border-style:outset;
+	border-width:thick;
+}
+
+#top {
+	width:900px;
+	margin:0 auto;
+	/*background:silver;*/
+	height:225px
+}
+
+#left {
+width:280px;
+float:left;
+overflow:hidden
+}
+#middle {
+width:350px;
+float:left;
+margin-left:5px;
+text-align:left;
+}
+#right {
+width:250px;
+float:right;
+/*background:#ccc;*/
+}
+
+#introduction{
+	width:880px;
+	height:auto;
+	/*background-color:#FFF;*/
+	text-align: left;
+	padding-left:9px;
+	padding-bottom: 55px;
+}
+
+#main{
+	width:950px;
+	height:auto;
+}
+
+#main ul{
+	text-align:justify;
+}
+
+#main li{
+	padding-top:10px;
+}
+
+#publication{
+	padding-top:5px;
+	font-size: 14px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.dropshadow1{
+	float:left;
+	clear:left;
+	background: url(images/shadowAlpha.png) no-repeat bottom right !important;
+	background: url(images/shadow.gif) no-repeat bottom right;
+	margin: 10px 0 10px 10px !important;
+	margin: 10px 0 10px 5px;
+	width: 500px;
+}
+
+#other{
+	padding-top:10px;
+}
+
+h2{
+	font-family:"Comic Sans MS", cursive;
+}
+

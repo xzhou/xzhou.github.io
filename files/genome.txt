@@ -1,0 +1,18 @@
+@inproceedings{Wang:2009:LYI:1653662.1653726,
+ author = {Wang, Rui and Li, Yong Fuga and Wang, XiaoFeng and Tang, Haixu and Zhou, Xiaoyong},
+ title = {Learning your identity and disease from research papers: information leaks in genome wide association study},
+ booktitle = {Proceedings of the 16th ACM conference on Computer and communications security},
+ series = {CCS '09},
+ year = {2009},
+ isbn = {978-1-60558-894-0},
+ location = {Chicago, Illinois, USA},
+ pages = {534--544},
+ numpages = {11},
+ url = {http://doi.acm.org/10.1145/1653662.1653726},
+ doi = {10.1145/1653662.1653726},
+ acmid = {1653726},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {genome wide association study, integer programming, markov model, single nucleotide polymorphism, test statistics},
+} 
+

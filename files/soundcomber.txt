@@ -1,0 +1,17 @@
+@inproceedings{conf/ndss/SchlegelZZIKW11,
+  added-at = {2011-08-31T00:00:00.000+0200},
+  author = {Schlegel, Roman and Zhang, Kehuan and yong Zhou, Xiao and Intwala, Mehool and Kapadia, Apu and Wang, XiaoFeng},
+  biburl = {http://www.bibsonomy.org/bibtex/2beac903446c45be9eac837bcb9e082c9/dblp},
+  booktitle = {NDSS},
+  crossref = {conf/ndss/2011},
+  ee = {http://www.isoc.org/isoc/conferences/ndss/11/pdf/1_1.pdf},
+  interhash = {60a539219aa61f84404480a561472fbe},
+  intrahash = {beac903446c45be9eac837bcb9e082c9},
+  keywords = {dblp},
+  publisher = {The Internet Society},
+  timestamp = {2011-08-31T00:00:00.000+0200},
+  title = {Soundcomber: A Stealthy and Context-Aware Sound Trojan for Smartphones.},
+  url = {http://dblp.uni-trier.de/db/conf/ndss/ndss2011.html#SchlegelZZIKW11},
+  year = 2011
+}
+

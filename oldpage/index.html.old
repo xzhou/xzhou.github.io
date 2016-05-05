@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Xiaoyong Zhou</title>
+  
+
+  
+  
+  <link href="style.css" rel="stylesheet" type="text/css" /></head><body>
+<div id="container">
+<div style="text-align: center;">
+</div>
+<div id="top">
+<div style="text-align: center;">
+</div>
+<div style="text-align: center;" id="left"> <img src="images/arc.jpg" alt="Xiaoyong Zhou" width="228" height="328" style="width: 240px; height: 380px;" longdesc="http://cs.indiana.edu/~zhou" /></div>
+<!-- profile picture -->
+<div id="middle">
+<p><strong>Xiaoyong Zhou</strong></p>
+<p>Ph.D Student at Indiana University</p>
+<p>Email: see picture right</p>
+<p><a href="pubkey.asc">public key</a></p>
+<div>
+<a href="http://www.facebook.com/zhou.xiaoyong"><img src="images/facebook.png" width="32" height="32" /></a>
+<a href="http://twitter.com/#!xzhou"><img src="images/twitter.png" width="32" height="32" /></a>
+</div>
+</div>
+<div id="right"> <img style="width: 220px; height: 205px;" src="images/email.png" /> </div>
+<div> </div>
+</div>
+<div id="main">
+<div id="introduction">I am a Ph.D student of <a href="http://sysseclab.informatics.indiana.edu/">System Security Lab
+of Informatics</a> and my advisor is <a href="http://www.informatics.indiana.edu/xw7/">Xiaofeng Wang</a>.
+My
+research interests includes Information security, malware detection,
+privacy and Android system security. I am also interested in hiking and
+tennis. I am doing a internship this summer at Microsoft and Washington is
+the heaven for hiking! :)
+</div>
+<div id="publication">
+  <h2 align="left">Publications</h2>
+<ul>
+  <li>
+To Release Or Not To Release: Evaluating Information Leaks in Aggregate
+Human-Genome Data. Xiaoyong Zhou, Bo Peng, Yong Fuga Li, Yangyi Chen,
+Haixu Tang, XiaoFeng Wang. To appear on <em>ESORICS 2011</em>, Leuven,
+Belgium, 12-14 September, 2011. <a href="files/ESORICS.pptx">Slides</a></li>
+  <li>
+Sedic: Privacy-Aware Data Intensive Computing on Hybrid Clouds. K.
+Zhang, X. Zhou, Y. Chen, X. Wang and Y. Ruan. To appear in Proceedings
+of the 18th ACM Conference on Computer and Communications Security
+(CCS). </li>
+  <li>
+Soundcomber: A Stealthy and Context-Aware Sound Trojan for Smartphones.
+Roman Schlegel, Kehuan Zhang, Xiaoyong Zhou, Mehool Intwala, Apu
+Kapadia, and XiaoFeng Wang. In the 18th <em>Annual Network &amp;
+Distributed System Security Symposium</em> (NDSS '11), San Diego, CA,
+February 6–9, 2011. </li>
+  <li>
+Effective and Effcient Malware Detection at the End Host. Clemens
+Kolbitsch, Paolo Milani Comparetti, Christopher Kruegel, Engin Kirda,
+Xiaoyong Zhou, and XiaoFeng Wang. In The 18th <em>USENIX Security
+Symposium</em>, Canada, August 2009. </li>
+  <li>
+Learning Your Identity and Disease from Research Papers: Information
+Leaks in Genome Wide Association Study. By Rui Wang, Yong Li, XiaoFeng
+Wang, Haixu Tang, Xiaoyong Zhou. In The 16th <em>ACM Conference on
+Computer and Communications Security</em> (CCS '09), Chicago, IL, Nov.
+2009. </li>
+  <li>
+L. Jean Camp, Rui Wang, and Xiaoyong Zhou. Global Regulation of IPv4
+Address Exhaustion. <em>ISGIG 2009</em>, Prague, Czech Republic. </li>
+  <li>
+Xiaoyong Zhou, Ning Hu, Zhenghu Gong. Data Stream based Real Time
+Network Traﬃc Data Analysis System Design. <em>Journal of Application
+Research of Computers</em>, September, 2007 </li>
+</ul>
+<!-- end publication -->
+</div>
+<div id="other">
+<h2>Links</h2>
+<p><a href="http://xzhou.wordpress.com/">Blog</a>
+</p>
+</div>
+<!--end main -->
+</div>
+</div>
+
+</body></html>

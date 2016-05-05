@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+   <head>
+      <title>VE2 Sample</title>
+      <script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.3"></script>
+
+      <script type="text/javascript">
+         
+         function OnPageLoad()
+         {
+            map = new VEMap('myMap');
+            // SetDashboardSize must be called before calling LoadMap
+            map.SetDashboardSize(VEDashboardSize.Small);
+            map.LoadMap(new VELatLong(39.1665916442871, -86.5342407226563), 15, VEMapStyle.Road);
+            map.ShowDashboard();
+         }
+      </script>
+   </head>
+   <body onload="OnPageLoad();">
+      <div id='myMap' style="position:relative; width:600px; height:400px;"></div>
+   </body>
+</html>

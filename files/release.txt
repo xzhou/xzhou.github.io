@@ -1,0 +1,16 @@
+@inproceedings{Zhou:2011:RRE:2041225.2041268,
+ author = {Zhou, Xiaoyong and Peng, Bo and Li, Yong Fuga and Chen, Yangyi and Tang, Haixu and Wang, XiaoFeng},
+ title = {To release or not to release: evaluating information leaks in aggregate human-genome data},
+ booktitle = {Proceedings of the 16th European conference on Research in computer security},
+ series = {ESORICS'11},
+ year = {2011},
+ isbn = {978-3-642-23821-5},
+ location = {Leuven, Belgium},
+ pages = {607--627},
+ numpages = {21},
+ url = {http://dl.acm.org/citation.cfm?id=2041225.2041268},
+ acmid = {2041268},
+ publisher = {Springer-Verlag},
+ address = {Berlin, Heidelberg},
+} 
+

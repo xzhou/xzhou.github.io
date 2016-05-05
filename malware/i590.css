@@ -1,0 +1,44 @@
+/* body { */
+/*   background-image: url("social-net-viz-2.jpg"); */
+/*   background-position: 0% 0%; */
+/*   background-repeat: repeat; */
+/*   background-opacity:0.1; */
+/* } */
+
+a {text-decoration: none;}
+a:hover{
+	color: #C2C8FC;
+}
+ul {list-style: none; padding: 10px; margin-left: 0;}
+li {margin: 5px}
+h1 {font-family: sans-serif; color: #990000}
+h2 {font-family: sans-serif; color: #990000}
+h3 {font-family: sans-serif; color: #990000}
+body {font-family: sans-serif;}
+td.holiday{
+	background-color:#C66
+}
+td.presentation{
+	background-color:#CCCDFD
+}
+td.active{
+	background-color:#FF0
+}
+th {
+	text-align: left;
+	padding-right: 0em;
+	background-color: #CCC;
+}
+td {padding-right: 0em;}
+#schedule{
+	font-size:13px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #C8C8C8;
+}
+td{
+	background-color:#FFF;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#proposal {
+}

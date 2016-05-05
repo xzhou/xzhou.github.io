@@ -1,0 +1,11 @@
+@inproceedings{sidedroid,
+    author = {Xiaoyong Zhou and Soteris Demetriou and Dongjing He and Muhammad Naveed and Xiaorui Pan and XiaoFeng Wang and Carl A. Gunter and Klara Nahrstedt},
+    booktitle = {Proceedings of 20th ACM Conference on Computer and Communications Security (CCS)},
+    keywords = {android, privacy, security, smartphones, health},
+    location = {Berlin, Germany},
+    month = Nov,
+    title = {Identity, Location, Disease and More: Inferring Your
+Secrets from Android Public Resources},
+    url = {http://www.cs.indiana.edu/~zhou/files/fp045-zhou.pdf},
+    year = {2013}
+}
